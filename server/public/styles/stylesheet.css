@@ -1,0 +1,17 @@
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.jumbrotron {
+  background-color: !important #E74C3C;
+}
+
+body {
+  /*background-color: #ECF0F1;*/
+}
+
+.gandalf {
+  height: 440;
+  width: 280;
+}
